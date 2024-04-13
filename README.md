@@ -1,0 +1,1 @@
+# restapi_go_1.22.2_template
